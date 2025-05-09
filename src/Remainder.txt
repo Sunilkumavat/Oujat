@@ -1,0 +1,22 @@
+Remaining Work in each page
+
+
+1.Form Validation on every page     done
+
+2.Login page     done
+Password eye icon 
+
+
+3.SignupPage1     done
+Document attach icon
+
+4.SignupPage2 
+date field
+Placeholder for country field
+Placeholder for language field
+Placeholder for country code
+
+5.SignupPage3
+Document attach icon
+
+6. Handling navigation after Validation
